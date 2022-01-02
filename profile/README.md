@@ -1,3 +1,1 @@
-<p style="text-align: center;"><strong><a href="https://bit.ly/evergoodproject">Curseforge</a> ///
-<a href="https://discord.gg/k2P68Y8">Discord</a> ///
-  <a href="https://evergoodteam.github.io">Wiki</a></strong></p>
+<p style="text-align: center;"><a href="https://discord.gg/k2P68Y8"><img style="float: left;" src="https://i.imgur.com/cW4XIRq.png" alt="" /></a>&nbsp; &nbsp; <a href="https://bisecthosting.com/Libra"><img style="float: left;" src="https://i.imgur.com/sqBiiBh.png" alt="" /></a></p>
